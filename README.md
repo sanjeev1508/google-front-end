@@ -25,4 +25,3 @@ This project is a **custom-designed Google Search dashboard UI** created using *
 
 ---
 
-© 2025 - Designed by [SANJEEVIKUMAR S]
